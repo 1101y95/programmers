@@ -20,4 +20,5 @@ function solution(s) {
   }
     answer="";
     answer = b.join(" ");
-  return answer}
+  return answer
+}
