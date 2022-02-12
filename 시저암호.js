@@ -22,7 +22,7 @@ function solution(s, n) {
       //         else{strArr[i] = lowerABC[changeABCIndex-25]}
       //     }
       //     answer+=strArr[i];
-      // })<<< 왜 안되는지 모르겠다
+      // })<<< 왜 안되는지 모르겠다 왜냐하면 findindex가 콜백을 인자로 받기때문에 안됐던 거임.
       
       let numArr =[];
       for(let e of strArr){

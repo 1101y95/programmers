@@ -29,3 +29,5 @@ function solution(s) {
     answer = Number(s)
     return answer;
 }
+//replaceAll 사용해도됨....근데 이거 최신문법이라 아직 지원 안되는 곳도 있음ㅋㅋ
+//정규표현식 사용해서도 풀어보고 split과 join도 사용해서 풀어볼것
